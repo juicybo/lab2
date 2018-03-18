@@ -1,3 +1,2 @@
 Hello, World
 My name is Julia
-I'm 20
