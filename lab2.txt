@@ -2,3 +2,6 @@ Hello, World
 My name is Julia
 I'm from Belarus
 From Mozyr
+School 14
+A class
+34b6782... Fifth commit (develop)
